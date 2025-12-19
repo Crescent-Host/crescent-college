@@ -2,62 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://crescentcollege.org/</loc>
-    <lastmod>2025-12-18</lastmod>
+    <lastmod>2025-12-19</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://crescentcollege.org/index.html</loc>
-    <lastmod>2025-12-18</lastmod>
+    <lastmod>2025-12-19</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://crescentcollege.org/trading-course-london.html</loc>
-    <lastmod>2025-12-18</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://crescentcollege.org/trading-course-manchester.html</loc>
-    <lastmod>2025-12-18</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://crescentcollege.org/trading-course-toronto.html</loc>
-    <lastmod>2025-12-18</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://crescentcollege.org/trading-course-vancouver.html</loc>
-    <lastmod>2025-12-18</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://crescentcollege.org/trading-course-sydney.html</loc>
-    <lastmod>2025-12-18</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://crescentcollege.org/trading-course-melbourne.html</loc>
-    <lastmod>2025-12-18</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://crescentcollege.org/trading-course-dubai.html</loc>
-    <lastmod>2025-12-18</lastmod>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-abu-dhabi.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-riyadh.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-jeddah.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-doha.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-manama.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-kuwait-city.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-cairo.html</loc>
+    <lastmod>2025-12-19</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://crescentcollege.org/trading-course-singapore.html</loc>
-    <lastmod>2025-12-18</lastmod>
+    <lastmod>2025-12-19</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://crescentcollege.org/trading-course-auckland.html</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://crescentcollege.org/trading-course-hong-kong.html</loc>
+    <lastmod>2025-12-19</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://crescentcollege.org/trading-course-dublin.html</loc>
-    <lastmod>2025-12-18</lastmod>
+    <loc>https://crescentcollege.org/trading-course-kuala-lumpur.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-bangkok.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-manila.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-jakarta.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-ho-chi-minh-city.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-hanoi.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-mumbai.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-new-delhi.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-bangalore.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-tokyo.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-osaka.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-seoul.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-taipei.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-johannesburg.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-cape-town.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-lagos.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-abuja.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-port-harcourt.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-nairobi.html</loc>
+    <lastmod>2025-12-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://crescentcollege.org/trading-course-accra.html</loc>
+    <lastmod>2025-12-19</lastmod>
     <priority>0.9</priority>
   </url>
 </urlset>
